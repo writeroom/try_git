@@ -15,7 +15,6 @@ Released under the Gnu General Public License
 * When you login to the admin-side, the relevant upgrade script is
   run automatically. Please take a look into diagnostics to find out
   whether there are any errors and whether the correct version number
-  is displayed.
 
 == Getting Started ==
 
